@@ -18,7 +18,7 @@ Descrizione con _italic_.
 
 ### codice
 
-```
+```arduino
 if(isset($_COOKIE['axl')){
   echo 'ciao mondo';
 }
