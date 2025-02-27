@@ -16,4 +16,10 @@ Descrizione con _italic_.
 
 ![immagine bo-russ](assets/02.jpg)
 
+### codice
 
+```
+if(isset($_COOKIE['axl')){
+  echo 'ciao mondo';
+}
+```
