@@ -23,6 +23,3 @@ if(isset($_COOKIE['axl')){
   echo 'ciao mondo';
 }
 ```
-
-_mi sto arrabbiando_
-_mi sto arrabbiando di nuovo_
